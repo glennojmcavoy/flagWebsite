@@ -1,2 +1,2 @@
 # flagWebsite
-A website containing all things flag
+An informative website on all things flag
